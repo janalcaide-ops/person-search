@@ -14,12 +14,12 @@ export default function GithubPage() {
           <CardContent>
             <p className="mb-4">You can view the source code for Person Search on GitHub:</p>
             <a
-              href="https://github.com/tinatuazon/person-search"
+              href="https://github.com/janalcaide-ops/person-search"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary underline text-lg hover:text-primary/80"
             >
-              github.com/tinatuazon/person-search
+              github.com/janalcaide-ops/person-search
             </a>
           </CardContent>
         </Card>
